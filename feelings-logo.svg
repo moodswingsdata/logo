@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="100"
+   viewBox="0 0 200 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="feelings-logo.svg"
+   inkscape:export-filename="feelings-logo.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="2.3811872"
+     inkscape:cx="97.220413"
+     inkscape:cy="52.074865"
+     inkscape:window-width="1393"
+     inkscape:window-height="687"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g7" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient3"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#3b86c7;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#562f7f;stop-opacity:1;"
+         offset="0.32591623"
+         id="stop6" />
+      <stop
+         style="stop-color:#ba4034;stop-opacity:1;"
+         offset="0.75"
+         id="stop7" />
+      <stop
+         style="stop-color:#40914e;stop-opacity:1;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <rect
+       x="-0.95401597"
+       y="0"
+       width="300.51505"
+       height="99.217659"
+       id="rect1" />
+    <rect
+       x="-0.95401597"
+       y="0"
+       width="300.51505"
+       height="99.217659"
+       id="rect2" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="53.450447"
+       y1="44.524597"
+       x2="245.98891"
+       y2="44.524597"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7"
+       x="-0.0071858687"
+       y="-0.015015175"
+       width="1.0143717"
+       height="1.0300303">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.57648168"
+         id="feGaussianBlur7" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-52.347214,-2.5445173)">
+    <g
+       id="g7">
+      <text
+         xml:space="preserve"
+         id="text1"
+         style="font-size:69.3333px;font-family:Trattatello;-inkscape-font-specification:Trattatello;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;opacity:0.8;fill:#ffffff;fill-opacity:1;stroke-width:10;stroke-dasharray:20, 10, 5, 10;stroke-opacity:0.710345;filter:url(#filter7)"
+         x="150.25752"
+         y="0"
+         transform="translate(2.700281,7.8953626)"
+         inkscape:label="fuzz"><tspan
+           x="56.501156"
+           y="59.1886"
+           id="tspan1">Feelings</tspan></text>
+      <text
+         xml:space="preserve"
+         id="text2"
+         style="font-size:69.3333px;font-family:Trattatello;-inkscape-font-specification:Trattatello;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:url(#linearGradient4);stroke-width:10;stroke-dasharray:20, 10, 5, 10;stroke-opacity:0.710345"
+         x="150.25752"
+         y="0"
+         transform="translate(2.6275364,8.0199213)"><tspan
+           x="56.501156"
+           y="59.1886"
+           id="tspan2">Feelings</tspan></text>
+    </g>
+  </g>
+</svg>
